@@ -55,3 +55,16 @@ The dashboard displays trends and allows filtering based on dates to highlight f
 - Include more granular analysis by department or team.
 - Add advanced filtering options such as job roles or location-based metrics.
 - Incorporate predictive analytics to forecast employee presence and absenteeism trends.
+
+---
+
+### Tools Used:
+- **Power BI**: For data visualization and dashboard creation.
+- **Excel/CSV**: For raw data storage and initial processing.
+- **DAX**: To calculate measures and perform data transformations.
+
+### Files in the Repository:
+- **AttendanceData.xlsx**: The source dataset.
+- **EmployeePresenceDashboard.pbix**: The Power BI file with the final dashboard.
+- **README.md**: Overview of the project (this document).
+- **Dashboard_Screenshots/**: Folder containing dashboard screenshots for preview.
